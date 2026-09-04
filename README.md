@@ -12,11 +12,13 @@ This repository contains my solutions to various LeetCode problems.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -39,4 +41,12 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
