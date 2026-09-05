@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0142-linked-list-cycle-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -29,6 +30,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0287-find-the-duplicate-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +51,8 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
