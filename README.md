@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0142-linked-list-cycle-ii) |
+| [0567-permutation-in-string](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
@@ -21,6 +22,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0142-linked-list-cycle-ii](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0567-permutation-in-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -54,5 +56,10 @@ This repository contains my solutions to various LeetCode problems.
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
