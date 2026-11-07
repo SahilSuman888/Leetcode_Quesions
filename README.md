@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0287-find-the-duplicate-number) |
@@ -31,6 +32,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0287-find-the-duplicate-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
@@ -62,4 +64,16 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
