@@ -36,11 +36,13 @@ This repository contains my solutions to various LeetCode problems.
 | [0031-next-permutation](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -78,4 +81,8 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/SahilSuman888/Leetcode_Quesions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
